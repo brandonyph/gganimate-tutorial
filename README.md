@@ -1,8 +1,12 @@
-\#1. gganimate package \#2. transition\_*() \#3. ease\_aes() \#4.
-enter\_* and exit\_\* animation configuration \#5. COVID\_19 data
-animation
+## gganimate Tutorial
 
-\#————————————- \# 1. gganimate package \#————————————
+1. gganimate package 
+2. 2. transition\_*() 
+3. 3. ease\_aes() 
+4. 4.enter\_* and exit\_\* animation configuration 
+5. 5. COVID\_19 data animation
+
+
 
 ``` r
 library(gganimate)
