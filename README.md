@@ -1,11 +1,10 @@
 ## gganimate Tutorial
 
 1. gganimate package 
-2. 2. transition\_*() 
-3. 3. ease\_aes() 
-4. 4.enter\_* and exit\_\* animation configuration 
-5. 5. COVID\_19 data animation
-
+2. Transition_() 
+3. Ease; aes() 
+4. enter() and exit() animation configuration 
+5. COVID_19 data animation
 
 
 ``` r
